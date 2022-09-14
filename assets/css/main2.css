@@ -1225,3 +1225,28 @@
   .footer .credits a {
     color: #fff;
   }
+
+
+  /* term and conditions */
+  .tacbox {
+    display:block;
+    padding: 0;
+    margin: 0;
+    /* border: 3px solid #ddd;
+    background-color: #eee; */
+    max-width: 400px;
+  }
+  
+  .terms {
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  #terms-hover:hover{
+    color: black;
+  }
+
+  input {
+    height: 1em;
+    width: 1em;
+    vertical-align: middle;
+  }
